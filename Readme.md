@@ -1,3 +1,3 @@
 # Artificial Intelligence 
 
-Computer mimicking human behaviour without being explicitly programmed.
+Computer mimicking human behaviour.
