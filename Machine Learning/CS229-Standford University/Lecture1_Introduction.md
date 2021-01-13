@@ -9,5 +9,5 @@
 #### P The probability of the algorithm will win the next game.
 
 ## In general, Any machine learning problem can be assign to one of the two broad classifications:
-# Supervised Learning
-# Unsupervised Learning 
+* ## Supervised Learning
+* ## Unsupervised Learning 
