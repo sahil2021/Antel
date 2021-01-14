@@ -22,3 +22,16 @@
     * #### Regression problem example is trying to predict age of person based on thier image.
 * ### Classification algorithm tries to predict results into discrete output, in other words algorithm tries to map input variables to an discrete set of categories.
     * #### Classification problem example is trying to predict given information about person's tumor whether it is malignant or benign.
+
+# Unsupervised Learning 
+## Unsupervised learning algorithm allow us to approch problems with little to no idea, how should data look like. It derives structure from data where we don't necessarily know effect of variables on the data.
+## We can derive this structure by clustering data based on relationship among variables in data.
+## In unsupervised learning there is no feedback based on predicted results.
+
+* ### Clustering problem, let's take collection of 1,000,000 different genes and find a way to automatically group these genes into groups that are somehow similer and related by different variables such as lifespan, location, role etc.
+
+* ### Unclusturing problem, Cocktail Party Algorithm which allows you to find structure in chaotic environment(Example Identifying individiual sounds and music in mesh of sounds)
+
+
+
+
